@@ -1,0 +1,15 @@
+.login-background{
+    background-image: url(../assets/loginpage.jpg);
+    height: 94vh;
+    width: 1200 px;
+    background-position: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+
+   
+}
+
+.redirect-signup-button{
+    margin-top: 20px;
+}

@@ -1,0 +1,7 @@
+.messages-output {
+    height: 90vh;
+    border: 1px solid lightgrey;
+    background-color: #32CDA7; /* #CD3258 is complementary */
+    overflow-y: scroll;
+    margin-bottom: 5px;
+}

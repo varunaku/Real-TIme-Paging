@@ -1,0 +1,15 @@
+.home-background {
+    background-image: url(../assets/homepage.jpg);
+    height: 92.5vh;
+    background-position: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    
+}
+
+.homepage-button{
+    margin: 20%;
+    display: flex; 
+    justify-content: center
+}
